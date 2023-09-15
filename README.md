@@ -1,2 +1,2 @@
 # SYNC
-Steal Your New Card
+Steal Your New Cookie
