@@ -1,6 +1,8 @@
 # SYNC
 Steal Your New Cookie
 
+Builder is a WIP
+
 〢 Setting Up
 Put ur webhook at hook = "" and run main.py
 
